@@ -55,10 +55,11 @@
     "price": 89990,
     "priceLabel": "$89.990"
   },
+  
   {
     "id": "curso-guitarra",
     "slug": "curso-guitarra",
-    "title": "Curso intensivo de guitarra rock",
+    "title": "Curso de guitarra",
     "tutorId": "marco-vidal",
     "tutorName": "Marco Vidal",
 
